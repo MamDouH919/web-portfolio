@@ -1,0 +1,34 @@
+[
+    {
+        "id":"1",
+        "folder":"Broadway",
+        "name":"Broadway",
+        "descri": "Software system to manage a food and beverage factory and its products",
+        "logo":"logo.png",
+        "img":["broadwayImg1.png","broadwayImg2.png","broadwayImg3.png","broadwayImg4.png"]
+    },
+    {
+        "id":"2",
+        "folder":"elbarkawy",
+        "name":"Elbarkawy",
+        "descri": "Website that shows information, history, partners, and milestones about the company.",
+        "logo":"logo.png",
+        "img":["barkawyImg.jpeg","barkawyImg2.jpeg","barkawyImg3.jpeg","barkawyImg4.jpeg","barkawyImg5.jpeg"]
+    },
+    {
+        "id":"3",
+        "folder":"kingKhaled",
+        "logo":"logo.png",
+        "name": "King Khaled University",
+        "descri": "Mobile application to manage university, classes, and materials between professors and students",
+        "img":["kingkhaled.jpg","kingkhaled2.jpg","kingkhaled3.jpg","kingkhaled4.jpg"]
+    },
+    {
+        "id":"4",
+        "name": "SEKINCX",
+        "descri": "A decentralised platform that connects businesses and customers through surveys and token rewards",
+        "folder":"sekin",
+        "logo":"logo.PNG",
+        "img":["sekinImg.jpg","sekinImg2.jpg","sekinImg3.jpg","sekinImg4.jpg","sekinImg5.jpg"]
+    }
+]

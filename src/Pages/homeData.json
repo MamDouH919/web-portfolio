@@ -1,0 +1,98 @@
+{
+    "servicesTab": [
+        {
+            "id": "1",
+            "title": "Ai and machine learning development",
+            "description": "Elevate Your Business with Custom AI and Machine Learning Solutions.",
+            "icon": "Enterprise"
+        },
+        {
+            "id": "2",
+            "title": "Blockchain development",
+            "description": "Maximize Efficiency and Security with Our Top-Notch Blockchain Development Services.",
+            "icon": "Blockchain"
+        },
+        {
+            "id": "3",
+            "title": "Web and Mobile apps development",
+            "description": "Innovative Web and Mobile Apps to Take Your Business to the Next Level.",
+            "icon": "Mobile"
+        },
+        {
+            "id": "4",
+            "title": "IT Consulting",
+            "description": "Trust our top minds to eliminate workflow pain points, implement new tech, and consolidate app portfolios.",
+            "icon": "IT"
+        },
+        {
+            "id": "5",
+            "title": "UX / UI Design",
+            "description": "Build the product you need on time with an experienced team that uses a clear and effective design process.",
+            "icon": "UX/UI"
+        },
+        {
+            "id": "6",
+            "title": "Dedicated Development Team",
+            "description": "Hire a loyal software development team with niche skills and deep expertise.",
+            "icon": "Dedicated"
+        }
+    ],
+    "technologiesTab": [
+        {
+            "id": "1",
+            "title": "Cloud Computing",
+            "description": "Create complex enterprise software, ensure reliable software integration, modernise your legacy system.",
+            "icon": "Computing"
+        },
+        {
+            "id": "2",
+            "title": "Blockchain Development",
+            "description": "Create complex enterprise software, ensure reliable software integration, modernise your legacy system.",
+            "icon": "Blockchain"
+        },
+        {
+            "id": "3",
+            "title": "UX / UI Design",
+            "description": "Create complex enterprise software, ensure reliable software integration, modernise your legacy system.",
+            "icon": "UX/UI"
+        },
+        {
+            "id": "4",
+            "title": "Internet of Things",
+            "description": "Create complex enterprise software, ensure reliable software integration, modernise your legacy system.",
+            "icon": "Internet"
+        }
+    ],
+    "industriesTab": [
+        {
+            "id": "1",
+            "title": "Retail & Ecommerce",
+            "icon": "Retail"
+        },
+        {
+            "id": "2",
+            "title": "Fintech",
+            "icon": "Fintech"
+        },
+        {
+            "id": "3",
+            "title": "Blockchain",
+            "icon": "Blockchain"
+        },
+        {
+            "id": "4",
+            "title": "Education",
+            "icon": "Education"
+        },
+        {
+            "id": "4",
+            "title": "Logistics",
+            "icon": "Logistics"
+        },
+        {
+            "id": "4",
+            "title": "Insurance",
+            "icon": "Insurance"
+        }
+    ]
+}

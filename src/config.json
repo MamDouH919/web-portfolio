@@ -1,0 +1,17 @@
+{
+    "siteName": "mamdouh mohammed",
+    "primaryColor": "#303A52",
+    "originSite": "https://mamdouh-mohammed.netlify.app/",
+    "originName": "Mamdouh Mohammed",
+    "fontTitle": "4",
+    "facebook": "https://www.facebook.com/MamDouHxMohammeD",
+    "linkedIn": "https://www.linkedin.com/in/mamdouh-mohammed/",
+    "twitter": "",
+    "github": "https://github.com/MamDouH919",
+    "backend": {
+        "protocol": "https",
+        "domain": "posapp.qualityclean-eg.com/pos_backend",
+        "port": "80",
+        "path": "graphql"
+    }
+}
