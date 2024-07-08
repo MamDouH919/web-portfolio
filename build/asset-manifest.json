@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7e68740.css",
+    "main.js": "/static/js/main.f33f265f.js",
+    "static/js/787.d2d0bfbf.chunk.js": "/static/js/787.d2d0bfbf.chunk.js",
+    "static/media/khwarizmi.png": "/static/media/khwarizmi.c6d2c0f7c2b1e6cf7edd.png",
+    "static/media/Mamdouh-Mohammed.pdf": "/static/media/Mamdouh-Mohammed.bd0743b2de0e99a56164.pdf",
+    "static/media/home-font.png": "/static/media/home-font.264db76e3c93cad2891e.png",
+    "static/media/bg-free.jpg": "/static/media/bg-free.ce52ce7e2a2d5d6d680d.jpg",
+    "static/media/logo-white-stroke.png": "/static/media/logo-white-stroke.dc92829dd2cdb08d94c3.png",
+    "static/media/logo.webp": "/static/media/logo.8cabd947864440eecaa4.74c955090d79eeab60ef.webp",
+    "static/media/accWebsite.jpg": "/static/media/accWebsite.d166dbbcd3e63b5aeeea.jpg",
+    "static/media/technodera.png": "/static/media/technodera.5585cc2ac9bad8a1ad7e.png",
+    "static/media/koora-planet.png": "/static/media/koora-planet.13e99e8fd408f089330b.png",
+    "static/media/banner2-bg.jpg": "/static/media/banner2-bg.341e0043da9f2eadb0e8.jpg",
+    "static/media/logo-banner.png": "/static/media/logo-banner.4373f17c67226b75eac1.png",
+    "static/media/accurate.png": "/static/media/accurate.579b57f382841e312354.png",
+    "static/media/mui.png": "/static/media/mui.df964212bc9bfd102063.png",
+    "static/media/logo.png": "/static/media/logo.72c6eda09a8de04ec699.png",
+    "static/media/react.svg": "/static/media/react.fab41685967315454768e0291241cb50.svg",
+    "static/media/nextjs-icon-svgrepo-com.svg": "/static/media/nextjs-icon-svgrepo-com.e3c042b9d9d809ebb67e9bc6e1e5f70d.svg",
+    "static/media/whatsapp-logo-4456.svg": "/static/media/whatsapp-logo-4456.8d87ffab8f86a953f8251bc268ac6ef4.svg",
+    "static/media/blue-linkedin-logo-15916.svg": "/static/media/blue-linkedin-logo-15916.e88e05ab5d9cc6df6dbe3b3b84c538aa.svg",
+    "static/media/blue-phone-7152.svg": "/static/media/blue-phone-7152.07fa550b8e57b1b05807ac80412cabdd.svg",
+    "static/media/laravel.svg": "/static/media/laravel.251f8c84c825145af487f05fd651776f.svg",
+    "static/media/github-logo-6532.svg": "/static/media/github-logo-6532.270355320eb902e3dda3224b8389c2ac.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.98585727bcfe0b1555649ec9bbab236c.svg",
+    "index.html": "/index.html",
+    "static/media/wave-bottom-1.svg": "/static/media/wave-bottom-1.47e0080f682005c0a42e3f39bc7d5b3d.svg",
+    "main.d7e68740.css.map": "/static/css/main.d7e68740.css.map",
+    "main.f33f265f.js.map": "/static/js/main.f33f265f.js.map",
+    "787.d2d0bfbf.chunk.js.map": "/static/js/787.d2d0bfbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7e68740.css",
+    "static/js/main.f33f265f.js"
+  ]
+}

@@ -54,6 +54,7 @@ const Root = styled('div')((
         },
     },
 }));
+
 export default function Footer() {
     return (
         <Root>
