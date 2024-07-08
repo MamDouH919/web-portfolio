@@ -59,8 +59,8 @@ export default function Footer() {
     return (
         <Root>
             <Container className={classes.container}>
-                <Stack direction={"row"} spacing={2} justifyContent={"space-between"} alignItems={"center"} py={2}>
-                    <Stack direction={"row"} spacing={2} justifyContent={"center"} alignItems={"center"}>
+                <Stack direction={{ md: "row", sm: "column" }} spacing={2} justifyContent={"space-between"} alignItems={"center"} py={2}>
+                    <Stack direction={"row"} spacing={2} justifyContent={"center"} alignItems={"center"} >
                         <BiCopyright />
                         <Typography ml={1} >All rights reserved to
                             <a href={config.originSite} target="_blank" rel="noopener noreferrer" style={{

@@ -5,7 +5,7 @@ import { styled } from '@mui/material/styles';
 import Banner from "../../../asset/img/banner2-bg.jpg"
 import Dots from "../../../asset/img/dot.png"
 import BannerImage from "../../../asset/img/home-font.png"
-import cv from "../../../asset/files/Mamdouh-Mohammed.pdf"
+import cv from "../../../asset/files/Mamdouh-Mohammed-cv.pdf"
 import './Hero.css'
 import logo from '../../../asset/img/logo-banner.png'
 import WhatsApp from '../../../asset/img/whatsapp-logo-4456.svg'
