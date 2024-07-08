@@ -228,11 +228,11 @@ export default function ContactForm() {
                                             <a target="_blank" rel="noreferrer" href="https://wa.me/+201157143609" className={classes.iconWrapper}>
                                                 <img src={WhatsApp} alt="WhatsApp" width={35} height={35} />
                                             </a>
-                                            <a href="https://www.linkedin.com/in/mamdouh-mohammed/" className={classes.iconWrapper}>
-                                                <img src={Github} alt="WhatsApp" width={35} height={35} />
-                                            </a>
                                             <a href="https://github.com/MamDouH919" className={classes.iconWrapper}>
-                                                <img src={Linkedin} alt="WhatsApp" width={35} height={35} />
+                                                <img src={Github} alt="Github" width={35} height={35} />
+                                            </a>
+                                            <a href="https://www.linkedin.com/in/mamdouh-mohammed/" className={classes.iconWrapper}>
+                                                <img src={Linkedin} alt="Linkedin" width={35} height={35} />
                                             </a>
                                         </Stack>
                                     </Grid>
