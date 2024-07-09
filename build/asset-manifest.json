@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.d7e68740.css",
-    "main.js": "/static/js/main.cf0a7f77.js",
+    "main.js": "/static/js/main.b6408b84.js",
     "static/js/787.d2d0bfbf.chunk.js": "/static/js/787.d2d0bfbf.chunk.js",
     "static/media/khwarizmi.png": "/static/media/khwarizmi.c6d2c0f7c2b1e6cf7edd.png",
-    "static/media/Mamdouh-Mohammed-cv.pdf": "/static/media/Mamdouh-Mohammed-cv.204595d76ec38031d93f.pdf",
     "static/media/home-font.png": "/static/media/home-font.264db76e3c93cad2891e.png",
     "static/media/bg-free.jpg": "/static/media/bg-free.ce52ce7e2a2d5d6d680d.jpg",
     "static/media/logo-white-stroke.png": "/static/media/logo-white-stroke.dc92829dd2cdb08d94c3.png",
@@ -28,11 +27,11 @@
     "index.html": "/index.html",
     "static/media/wave-bottom-1.svg": "/static/media/wave-bottom-1.47e0080f682005c0a42e3f39bc7d5b3d.svg",
     "main.d7e68740.css.map": "/static/css/main.d7e68740.css.map",
-    "main.cf0a7f77.js.map": "/static/js/main.cf0a7f77.js.map",
+    "main.b6408b84.js.map": "/static/js/main.b6408b84.js.map",
     "787.d2d0bfbf.chunk.js.map": "/static/js/787.d2d0bfbf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7e68740.css",
-    "static/js/main.cf0a7f77.js"
+    "static/js/main.b6408b84.js"
   ]
 }

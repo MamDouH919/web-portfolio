@@ -5,7 +5,6 @@ import { styled } from '@mui/material/styles';
 import Banner from "../../../asset/img/banner2-bg.jpg"
 import Dots from "../../../asset/img/dot.png"
 import BannerImage from "../../../asset/img/home-font.png"
-import cv from "../../../asset/files/Mamdouh-Mohammed-cv.pdf"
 import './Hero.css'
 import logo from '../../../asset/img/logo-banner.png'
 import WhatsApp from '../../../asset/img/whatsapp-logo-4456.svg'
@@ -150,7 +149,7 @@ export default function Hero() {
                                 <Typography variant='h3' className={classes.subTitleHero} >
                                     I'm a front-end developer
                                 </Typography>
-                                <a href={cv} download={"mamdouh-mohammed"}>
+                                <a href={'/Mamdouh-Mohammed-cv.pdf'} download={"Mamdouh-Mohammed-cv"}>
                                     <Button variant="contained" size="large" sx={{ minWidth: "200px !important" }}>Download CV</Button>
                                 </a>
                                 <Stack direction={"row"} spacing={2} alignItems="center" justifyContent={"center"} useFlexGap flexWrap={"wrap"}>
