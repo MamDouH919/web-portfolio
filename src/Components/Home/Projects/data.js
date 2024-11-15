@@ -5,6 +5,7 @@ import esperanto from '../../../asset/img/projects/logo.8cabd947864440eecaa4.web
 import accWebsite from '../../../asset/img/projects/accWebsite.jpg'
 import technodera from '../../../asset/img/projects/technodera.png'
 import kooraPlanet from '../../../asset/img/projects/koora-planet.png'
+import sapagh from '../../../asset/img/projects/sapagh.png'
 
 export const data = [
     {
@@ -48,5 +49,11 @@ export const data = [
         name: "kooora planet",
         img: kooraPlanet,
         link:"https://kooora-planet.netlify.app/"
+    },
+    {
+        id: 8,
+        name: "صباغ الكويت",
+        img: sapagh,
+        link:"https://thebest-paint-kuwait.com/"
     },
 ]

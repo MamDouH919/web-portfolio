@@ -63,6 +63,8 @@ const Root = styled('div')((
     [`& .${classes.heroTitle}`]: {
         fontWeight: 600,
         lineHeight: 1.2,
+        textTransform: "capitalize",
+
         // [theme.breakpoints.down('md')]: {
         //     fontSize: "30px",
         // },
@@ -93,7 +95,6 @@ const Root = styled('div')((
         alignItems: "center",
         position: "relative",
         zIndex: 4,
-        animation: "bounce 3s infinite ease-in-out",
         [theme.breakpoints.down('md')]: {
             textAlign: "center",
         },
@@ -107,6 +108,8 @@ const Root = styled('div')((
         width: "350px",
         borderRadius: "50%",
         marginTop: "50px",
+        animation: "bounceWidth 3s infinite ease-in-out",
+
         [theme.breakpoints.down('md')]: {
             width: "300px",
         },
@@ -122,6 +125,8 @@ const Root = styled('div')((
         backgroundRepeat: "no-repeat",
         backgroundPosition: "center",
         backgroundSize: "cover",
+        animation: "bounce 3s infinite ease-in-out",
+
         [theme.breakpoints.down('md')]: {
             width: "300px",
             height: "300px",
