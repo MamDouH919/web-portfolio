@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7e68740.css",
-    "main.js": "/static/js/main.b6408b84.js",
+    "main.css": "/static/css/main.a01585f1.css",
+    "main.js": "/static/js/main.32cd211c.js",
     "static/js/787.d2d0bfbf.chunk.js": "/static/js/787.d2d0bfbf.chunk.js",
     "static/media/khwarizmi.png": "/static/media/khwarizmi.c6d2c0f7c2b1e6cf7edd.png",
     "static/media/home-font.png": "/static/media/home-font.264db76e3c93cad2891e.png",
@@ -15,6 +15,7 @@
     "static/media/logo-banner.png": "/static/media/logo-banner.4373f17c67226b75eac1.png",
     "static/media/accurate.png": "/static/media/accurate.579b57f382841e312354.png",
     "static/media/mui.png": "/static/media/mui.df964212bc9bfd102063.png",
+    "static/media/sapagh.png": "/static/media/sapagh.950a24d4aab08528fef6.png",
     "static/media/logo.png": "/static/media/logo.72c6eda09a8de04ec699.png",
     "static/media/react.svg": "/static/media/react.fab41685967315454768e0291241cb50.svg",
     "static/media/nextjs-icon-svgrepo-com.svg": "/static/media/nextjs-icon-svgrepo-com.e3c042b9d9d809ebb67e9bc6e1e5f70d.svg",
@@ -26,12 +27,12 @@
     "static/media/bootstrap.svg": "/static/media/bootstrap.98585727bcfe0b1555649ec9bbab236c.svg",
     "index.html": "/index.html",
     "static/media/wave-bottom-1.svg": "/static/media/wave-bottom-1.47e0080f682005c0a42e3f39bc7d5b3d.svg",
-    "main.d7e68740.css.map": "/static/css/main.d7e68740.css.map",
-    "main.b6408b84.js.map": "/static/js/main.b6408b84.js.map",
+    "main.a01585f1.css.map": "/static/css/main.a01585f1.css.map",
+    "main.32cd211c.js.map": "/static/js/main.32cd211c.js.map",
     "787.d2d0bfbf.chunk.js.map": "/static/js/787.d2d0bfbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7e68740.css",
-    "static/js/main.b6408b84.js"
+    "static/css/main.a01585f1.css",
+    "static/js/main.32cd211c.js"
   ]
 }
