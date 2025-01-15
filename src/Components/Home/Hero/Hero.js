@@ -154,7 +154,7 @@ export default function Hero() {
                                 <Typography variant='h3' className={classes.subTitleHero} >
                                     I'm a front-end developer
                                 </Typography>
-                                <a href={'/Mamdouh_cv.pdf'} download={"Mamdouh-Mohammed-cv"}>
+                                <a href={'/mamdouh_cv.pdf'} download={"Mamdouh-Mohammed-cv"}>
                                     <Button variant="contained" size="large" sx={{ minWidth: "200px !important" }}>Download CV</Button>
                                 </a>
                                 <Stack direction={"row"} spacing={2} alignItems="center" justifyContent={"center"} useFlexGap flexWrap={"wrap"}>
